@@ -7,6 +7,6 @@ Within Hakchi2 CE, open Modules, Manage Mod Repositories, Add New Repository:
 
 **Name:** KMFD Xtreme 2K26
 
-**URL:**  https://github.com/KMFDManic/kmfd-xtreme-mod-hub-2k26/raw/main/.repo/
+**URL:**  "Remove Space from URL" https ://github.com/KMFDManic/kmfd-xtreme-mod-hub-2k26/raw/main/.repo/
 
 
